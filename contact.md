@@ -6,10 +6,15 @@ author: timmyg
 layout: page
 guid: http://timmygcentral.com/cincyrentals/contacts/
 ---
-\[row\] \[span4\] 
+\[row\] \[span4\]
 
 ## Interested?
 
 <p style="font-size: 18px;line-height: 22px;">
   Send us a message. We&#8217;ll get back to you quickly!
-</p> \[/span4\] \[span8\] \[contact-form-7 id=&#8221;208&#8243; title=&#8221;Cherry contact form&#8221;\] \[/span8\] [/row]
+</p>
+
+<div class="container" id="main-content" style="text-align:center;">
+<p></p>
+<h3 id="a-hrefmailtobadxxgexxxxxxxxxpizaxxzzgxxxxmailcom-onmouseoverthishrefthishrefreplacexgcontact-mea"><a href="cynxdxicxappel@xgmaxxil.xcoxxmx" onmouseover="this.href=this.href.replace(/x/g,'');">Contact me</a></h3>
+</div>
