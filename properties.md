@@ -148,13 +148,13 @@ layout: page
 	});
 </script>
   {% for post in site.posts %}
-      	<li class="portfolio_item   isotope-item" style="width: 396px; position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px);">
+      	<li class="portfolio_item   isotope-item" style="width: 396px; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px);">
       		<div class="portfolio_item_holder">
 
       								<figure class="thumbnail thumbnail__portfolio"><a href="{{ post.hero_img | prepend: site.github.url }}" class="image-wrap" title="{{ post.title }}" style="display:block" rel="prettyPhoto[gallery1]"><img src="{{ post.hero_img | prepend: site.github.url }}" alt="nook-0"><span class="zoom-icon"></span></a></figure><!--/.thumbnail__portfolio-->										<a href="{{ post.hero_img | prepend: site.github.url }}" class="image-wrap" title="{{ post.title }}" style="display:none" rel="prettyPhoto[gallery1]"></a>					
       			<div class="caption caption__portfolio">
       									<h3><a href="{{ post.url  }}">{{ post.title }}</a></h3>
-      									<p class="excerpt">{{ post.excerpt | strip_html }}</p>
+      									<p class="excerpt">{{ post.property_excerpt | strip_html }}</p>
 
       									<p><a href="{{ post.url | prepend: site.github.url }}" class="btn btn-primary">More info</a></p>
       							</div><!--/.caption__portfolio-->

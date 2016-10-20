@@ -94,7 +94,7 @@ portrait : true,
 <div class="section">
 <div class="layoutArea">
 <div class="column">
-<p style="font-size: 24px;line-height: 38px;text-align: center;margin-bottom: 150px;">
+<p style="font-size: 24px;line-height: 38px;text-align: center;">
 We cater to those looking for a temporary home, away from home. Our current homes are fully furnished and located in Oakley, OH within walking distance of Oakley Square.
 </p>
 </div>
